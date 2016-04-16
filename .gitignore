@@ -1,0 +1,16 @@
+
+# Folders
+/node_modules
+/docs
+/build
+/coverage
+/typings
+/jspm_packages
+/bower_components
+/.karma
+/.protractor
+
+# Files
+npm-debug.log
+app/**/*.js
+app/**/*.map
